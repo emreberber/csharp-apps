@@ -1,0 +1,9 @@
+c:\users\emre\documents\visual studio 2017\Projects\021-BlackJack\021-BlackJack\bin\Debug\021-BlackJack.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\021-BlackJack\021-BlackJack\bin\Debug\021-BlackJack.exe
+c:\users\emre\documents\visual studio 2017\Projects\021-BlackJack\021-BlackJack\bin\Debug\021-BlackJack.pdb
+c:\users\emre\documents\visual studio 2017\Projects\021-BlackJack\021-BlackJack\obj\Debug\021-BlackJack.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\021-BlackJack\021-BlackJack\obj\Debug\_021_BlackJack.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\021-BlackJack\021-BlackJack\obj\Debug\_021_BlackJack.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\021-BlackJack\021-BlackJack\obj\Debug\021-BlackJack.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\021-BlackJack\021-BlackJack\obj\Debug\021-BlackJack.exe
+c:\users\emre\documents\visual studio 2017\Projects\021-BlackJack\021-BlackJack\obj\Debug\021-BlackJack.pdb

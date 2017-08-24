@@ -1,0 +1,8 @@
+c:\users\emre\documents\visual studio 2017\Projects\022-KlayveKontrolOyun\022-KlayveKontrolOyun\bin\Debug\022-KlayveKontrolOyun.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\022-KlayveKontrolOyun\022-KlayveKontrolOyun\bin\Debug\022-KlayveKontrolOyun.exe
+c:\users\emre\documents\visual studio 2017\Projects\022-KlayveKontrolOyun\022-KlayveKontrolOyun\bin\Debug\022-KlayveKontrolOyun.pdb
+c:\users\emre\documents\visual studio 2017\Projects\022-KlayveKontrolOyun\022-KlayveKontrolOyun\obj\Debug\_022_KlayveKontrolOyun.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\022-KlayveKontrolOyun\022-KlayveKontrolOyun\obj\Debug\_022_KlayveKontrolOyun.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\022-KlayveKontrolOyun\022-KlayveKontrolOyun\obj\Debug\022-KlayveKontrolOyun.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\022-KlayveKontrolOyun\022-KlayveKontrolOyun\obj\Debug\022-KlayveKontrolOyun.exe
+c:\users\emre\documents\visual studio 2017\Projects\022-KlayveKontrolOyun\022-KlayveKontrolOyun\obj\Debug\022-KlayveKontrolOyun.pdb

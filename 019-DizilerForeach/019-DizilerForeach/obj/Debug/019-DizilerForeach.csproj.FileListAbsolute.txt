@@ -1,0 +1,9 @@
+c:\users\emre\documents\visual studio 2017\Projects\019-DizilerForeach\019-DizilerForeach\bin\Debug\019-DizilerForeach.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\019-DizilerForeach\019-DizilerForeach\bin\Debug\019-DizilerForeach.exe
+c:\users\emre\documents\visual studio 2017\Projects\019-DizilerForeach\019-DizilerForeach\bin\Debug\019-DizilerForeach.pdb
+c:\users\emre\documents\visual studio 2017\Projects\019-DizilerForeach\019-DizilerForeach\obj\Debug\019-DizilerForeach.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\019-DizilerForeach\019-DizilerForeach\obj\Debug\_019_DizilerForeach.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\019-DizilerForeach\019-DizilerForeach\obj\Debug\_019_DizilerForeach.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\019-DizilerForeach\019-DizilerForeach\obj\Debug\019-DizilerForeach.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\019-DizilerForeach\019-DizilerForeach\obj\Debug\019-DizilerForeach.exe
+c:\users\emre\documents\visual studio 2017\Projects\019-DizilerForeach\019-DizilerForeach\obj\Debug\019-DizilerForeach.pdb

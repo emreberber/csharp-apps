@@ -1,0 +1,9 @@
+c:\users\emre\documents\visual studio 2017\Projects\023-SinemaBiletiSatis\023-SinemaBiletiSatis\bin\Debug\023-SinemaBiletiSatis.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\023-SinemaBiletiSatis\023-SinemaBiletiSatis\bin\Debug\023-SinemaBiletiSatis.exe
+c:\users\emre\documents\visual studio 2017\Projects\023-SinemaBiletiSatis\023-SinemaBiletiSatis\bin\Debug\023-SinemaBiletiSatis.pdb
+c:\users\emre\documents\visual studio 2017\Projects\023-SinemaBiletiSatis\023-SinemaBiletiSatis\obj\Debug\023-SinemaBiletiSatis.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\023-SinemaBiletiSatis\023-SinemaBiletiSatis\obj\Debug\_023_SinemaBiletiSatis.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\023-SinemaBiletiSatis\023-SinemaBiletiSatis\obj\Debug\_023_SinemaBiletiSatis.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\023-SinemaBiletiSatis\023-SinemaBiletiSatis\obj\Debug\023-SinemaBiletiSatis.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\023-SinemaBiletiSatis\023-SinemaBiletiSatis\obj\Debug\023-SinemaBiletiSatis.exe
+c:\users\emre\documents\visual studio 2017\Projects\023-SinemaBiletiSatis\023-SinemaBiletiSatis\obj\Debug\023-SinemaBiletiSatis.pdb

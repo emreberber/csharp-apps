@@ -1,0 +1,9 @@
+c:\users\emre\documents\visual studio 2017\Projects\014-KaydetSilGoruntule\014-KaydetSilGoruntule\bin\Debug\014-KaydetSilGoruntule.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\014-KaydetSilGoruntule\014-KaydetSilGoruntule\bin\Debug\014-KaydetSilGoruntule.exe
+c:\users\emre\documents\visual studio 2017\Projects\014-KaydetSilGoruntule\014-KaydetSilGoruntule\bin\Debug\014-KaydetSilGoruntule.pdb
+c:\users\emre\documents\visual studio 2017\Projects\014-KaydetSilGoruntule\014-KaydetSilGoruntule\obj\Debug\014-KaydetSilGoruntule.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\014-KaydetSilGoruntule\014-KaydetSilGoruntule\obj\Debug\_014_KaydetSilGoruntule.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\014-KaydetSilGoruntule\014-KaydetSilGoruntule\obj\Debug\_014_KaydetSilGoruntule.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\014-KaydetSilGoruntule\014-KaydetSilGoruntule\obj\Debug\014-KaydetSilGoruntule.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\014-KaydetSilGoruntule\014-KaydetSilGoruntule\obj\Debug\014-KaydetSilGoruntule.exe
+c:\users\emre\documents\visual studio 2017\Projects\014-KaydetSilGoruntule\014-KaydetSilGoruntule\obj\Debug\014-KaydetSilGoruntule.pdb

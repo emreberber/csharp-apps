@@ -1,0 +1,8 @@
+c:\users\emre\documents\visual studio 2017\Projects\033-TabControl\033-TabControl\bin\Debug\033-TabControl.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\033-TabControl\033-TabControl\bin\Debug\033-TabControl.exe
+c:\users\emre\documents\visual studio 2017\Projects\033-TabControl\033-TabControl\bin\Debug\033-TabControl.pdb
+c:\users\emre\documents\visual studio 2017\Projects\033-TabControl\033-TabControl\obj\Debug\_033_TabControl.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\033-TabControl\033-TabControl\obj\Debug\_033_TabControl.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\033-TabControl\033-TabControl\obj\Debug\033-TabControl.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\033-TabControl\033-TabControl\obj\Debug\033-TabControl.exe
+c:\users\emre\documents\visual studio 2017\Projects\033-TabControl\033-TabControl\obj\Debug\033-TabControl.pdb

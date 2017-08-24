@@ -1,0 +1,9 @@
+c:\users\emre\documents\visual studio 2017\Projects\012-VeriTabaniGoruntuleme\012-VeriTabaniGoruntuleme\bin\Debug\012-VeriTabaniGoruntuleme.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\012-VeriTabaniGoruntuleme\012-VeriTabaniGoruntuleme\bin\Debug\012-VeriTabaniGoruntuleme.exe
+c:\users\emre\documents\visual studio 2017\Projects\012-VeriTabaniGoruntuleme\012-VeriTabaniGoruntuleme\bin\Debug\012-VeriTabaniGoruntuleme.pdb
+c:\users\emre\documents\visual studio 2017\Projects\012-VeriTabaniGoruntuleme\012-VeriTabaniGoruntuleme\obj\Debug\012-VeriTabaniGoruntuleme.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\012-VeriTabaniGoruntuleme\012-VeriTabaniGoruntuleme\obj\Debug\_012_VeriTabaniGoruntuleme.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\012-VeriTabaniGoruntuleme\012-VeriTabaniGoruntuleme\obj\Debug\_012_VeriTabaniGoruntuleme.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\012-VeriTabaniGoruntuleme\012-VeriTabaniGoruntuleme\obj\Debug\012-VeriTabaniGoruntuleme.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\012-VeriTabaniGoruntuleme\012-VeriTabaniGoruntuleme\obj\Debug\012-VeriTabaniGoruntuleme.exe
+c:\users\emre\documents\visual studio 2017\Projects\012-VeriTabaniGoruntuleme\012-VeriTabaniGoruntuleme\obj\Debug\012-VeriTabaniGoruntuleme.pdb

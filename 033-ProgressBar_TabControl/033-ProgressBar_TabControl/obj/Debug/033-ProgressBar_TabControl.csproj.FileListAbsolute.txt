@@ -1,0 +1,9 @@
+c:\users\emre\documents\visual studio 2017\Projects\033-ProgressBar_TabControl\033-ProgressBar_TabControl\bin\Debug\033-ProgressBar_TabControl.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\033-ProgressBar_TabControl\033-ProgressBar_TabControl\bin\Debug\033-ProgressBar_TabControl.exe
+c:\users\emre\documents\visual studio 2017\Projects\033-ProgressBar_TabControl\033-ProgressBar_TabControl\bin\Debug\033-ProgressBar_TabControl.pdb
+c:\users\emre\documents\visual studio 2017\Projects\033-ProgressBar_TabControl\033-ProgressBar_TabControl\obj\Debug\033-ProgressBar_TabControl.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\033-ProgressBar_TabControl\033-ProgressBar_TabControl\obj\Debug\_033_ProgressBar_TabControl.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\033-ProgressBar_TabControl\033-ProgressBar_TabControl\obj\Debug\_033_ProgressBar_TabControl.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\033-ProgressBar_TabControl\033-ProgressBar_TabControl\obj\Debug\033-ProgressBar_TabControl.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\033-ProgressBar_TabControl\033-ProgressBar_TabControl\obj\Debug\033-ProgressBar_TabControl.exe
+c:\users\emre\documents\visual studio 2017\Projects\033-ProgressBar_TabControl\033-ProgressBar_TabControl\obj\Debug\033-ProgressBar_TabControl.pdb

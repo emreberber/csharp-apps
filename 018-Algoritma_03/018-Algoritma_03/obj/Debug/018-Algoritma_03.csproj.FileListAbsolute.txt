@@ -1,0 +1,8 @@
+c:\users\emre\documents\visual studio 2017\Projects\018-Algoritma_03\018-Algoritma_03\bin\Debug\018-Algoritma_03.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\018-Algoritma_03\018-Algoritma_03\bin\Debug\018-Algoritma_03.exe
+c:\users\emre\documents\visual studio 2017\Projects\018-Algoritma_03\018-Algoritma_03\bin\Debug\018-Algoritma_03.pdb
+c:\users\emre\documents\visual studio 2017\Projects\018-Algoritma_03\018-Algoritma_03\obj\Debug\_018_Algoritma_03.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\018-Algoritma_03\018-Algoritma_03\obj\Debug\_018_Algoritma_03.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\018-Algoritma_03\018-Algoritma_03\obj\Debug\018-Algoritma_03.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\018-Algoritma_03\018-Algoritma_03\obj\Debug\018-Algoritma_03.exe
+c:\users\emre\documents\visual studio 2017\Projects\018-Algoritma_03\018-Algoritma_03\obj\Debug\018-Algoritma_03.pdb

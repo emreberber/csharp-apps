@@ -1,0 +1,9 @@
+c:\users\emre\documents\visual studio 2017\Projects\034-PointKullanimi\034-PointKullanimi\bin\Debug\034-PointKullanimi.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\034-PointKullanimi\034-PointKullanimi\bin\Debug\034-PointKullanimi.exe
+c:\users\emre\documents\visual studio 2017\Projects\034-PointKullanimi\034-PointKullanimi\bin\Debug\034-PointKullanimi.pdb
+c:\users\emre\documents\visual studio 2017\Projects\034-PointKullanimi\034-PointKullanimi\obj\Debug\_034_PointKullanimi.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\034-PointKullanimi\034-PointKullanimi\obj\Debug\_034_PointKullanimi.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\034-PointKullanimi\034-PointKullanimi\obj\Debug\034-PointKullanimi.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\034-PointKullanimi\034-PointKullanimi\obj\Debug\034-PointKullanimi.exe
+c:\users\emre\documents\visual studio 2017\Projects\034-PointKullanimi\034-PointKullanimi\obj\Debug\034-PointKullanimi.pdb
+c:\users\emre\documents\visual studio 2017\Projects\034-PointKullanimi\034-PointKullanimi\obj\Debug\034-PointKullanimi.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+c:\users\emre\documents\visual studio 2017\Projects\038-PansiyonKayit\038-PansiyonKayit\bin\Debug\038-PansiyonKayit.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\038-PansiyonKayit\038-PansiyonKayit\bin\Debug\038-PansiyonKayit.exe
+c:\users\emre\documents\visual studio 2017\Projects\038-PansiyonKayit\038-PansiyonKayit\bin\Debug\038-PansiyonKayit.pdb
+c:\users\emre\documents\visual studio 2017\Projects\038-PansiyonKayit\038-PansiyonKayit\obj\Debug\038-PansiyonKayit.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\038-PansiyonKayit\038-PansiyonKayit\obj\Debug\_038_PansiyonKayit.FrmKayitForm.resources
+c:\users\emre\documents\visual studio 2017\Projects\038-PansiyonKayit\038-PansiyonKayit\obj\Debug\_038_PansiyonKayit.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\038-PansiyonKayit\038-PansiyonKayit\obj\Debug\038-PansiyonKayit.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\038-PansiyonKayit\038-PansiyonKayit\obj\Debug\038-PansiyonKayit.exe
+c:\users\emre\documents\visual studio 2017\Projects\038-PansiyonKayit\038-PansiyonKayit\obj\Debug\038-PansiyonKayit.pdb
+c:\users\emre\documents\visual studio 2017\Projects\038-PansiyonKayit\038-PansiyonKayit\obj\Debug\_038_PansiyonKayit.FrmAdmin.resources

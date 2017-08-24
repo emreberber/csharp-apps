@@ -1,0 +1,9 @@
+c:\users\emre\documents\visual studio 2017\Projects\022-KlavyeYonTuslari\022-KlavyeYonTuslari\bin\Debug\022-KlavyeYonTuslari.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\022-KlavyeYonTuslari\022-KlavyeYonTuslari\bin\Debug\022-KlavyeYonTuslari.exe
+c:\users\emre\documents\visual studio 2017\Projects\022-KlavyeYonTuslari\022-KlavyeYonTuslari\bin\Debug\022-KlavyeYonTuslari.pdb
+c:\users\emre\documents\visual studio 2017\Projects\022-KlavyeYonTuslari\022-KlavyeYonTuslari\obj\Debug\022-KlavyeYonTuslari.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\022-KlavyeYonTuslari\022-KlavyeYonTuslari\obj\Debug\_022_KlavyeYonTuslari.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\022-KlavyeYonTuslari\022-KlavyeYonTuslari\obj\Debug\_022_KlavyeYonTuslari.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\022-KlavyeYonTuslari\022-KlavyeYonTuslari\obj\Debug\022-KlavyeYonTuslari.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\022-KlavyeYonTuslari\022-KlavyeYonTuslari\obj\Debug\022-KlavyeYonTuslari.exe
+c:\users\emre\documents\visual studio 2017\Projects\022-KlavyeYonTuslari\022-KlavyeYonTuslari\obj\Debug\022-KlavyeYonTuslari.pdb

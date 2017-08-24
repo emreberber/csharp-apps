@@ -1,0 +1,10 @@
+c:\users\emre\documents\visual studio 2017\Projects\016-EmlakKayit\016-EmlakKayit\bin\Debug\016-EmlakKayit.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\016-EmlakKayit\016-EmlakKayit\bin\Debug\016-EmlakKayit.exe
+c:\users\emre\documents\visual studio 2017\Projects\016-EmlakKayit\016-EmlakKayit\bin\Debug\016-EmlakKayit.pdb
+c:\users\emre\documents\visual studio 2017\Projects\016-EmlakKayit\016-EmlakKayit\obj\Debug\016-EmlakKayit.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\016-EmlakKayit\016-EmlakKayit\obj\Debug\_016_EmlakKayit.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\016-EmlakKayit\016-EmlakKayit\obj\Debug\_016_EmlakKayit.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\016-EmlakKayit\016-EmlakKayit\obj\Debug\016-EmlakKayit.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\016-EmlakKayit\016-EmlakKayit\obj\Debug\016-EmlakKayit.exe
+c:\users\emre\documents\visual studio 2017\Projects\016-EmlakKayit\016-EmlakKayit\obj\Debug\016-EmlakKayit.pdb
+c:\users\emre\documents\visual studio 2017\Projects\016-EmlakKayit\016-EmlakKayit\obj\Debug\_016_EmlakKayit.Form2.resources

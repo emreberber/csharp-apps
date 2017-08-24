@@ -1,0 +1,9 @@
+c:\users\emre\documents\visual studio 2017\Projects\035-WebTarayici\035-WebTarayici\bin\Debug\035-WebTarayici.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\035-WebTarayici\035-WebTarayici\bin\Debug\035-WebTarayici.exe
+c:\users\emre\documents\visual studio 2017\Projects\035-WebTarayici\035-WebTarayici\bin\Debug\035-WebTarayici.pdb
+c:\users\emre\documents\visual studio 2017\Projects\035-WebTarayici\035-WebTarayici\obj\Debug\035-WebTarayici.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\035-WebTarayici\035-WebTarayici\obj\Debug\_035_WebTarayici.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\035-WebTarayici\035-WebTarayici\obj\Debug\_035_WebTarayici.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\035-WebTarayici\035-WebTarayici\obj\Debug\035-WebTarayici.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\035-WebTarayici\035-WebTarayici\obj\Debug\035-WebTarayici.exe
+c:\users\emre\documents\visual studio 2017\Projects\035-WebTarayici\035-WebTarayici\obj\Debug\035-WebTarayici.pdb

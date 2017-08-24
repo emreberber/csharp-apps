@@ -1,0 +1,9 @@
+c:\users\emre\documents\visual studio 2017\Projects\012-KayitProgrami\012-KayitProgrami\bin\Debug\012-KayitProgrami.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\012-KayitProgrami\012-KayitProgrami\bin\Debug\012-KayitProgrami.exe
+c:\users\emre\documents\visual studio 2017\Projects\012-KayitProgrami\012-KayitProgrami\bin\Debug\012-KayitProgrami.pdb
+c:\users\emre\documents\visual studio 2017\Projects\012-KayitProgrami\012-KayitProgrami\obj\Debug\012-KayitProgrami.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\012-KayitProgrami\012-KayitProgrami\obj\Debug\_012_KayitProgrami.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\012-KayitProgrami\012-KayitProgrami\obj\Debug\_012_KayitProgrami.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\012-KayitProgrami\012-KayitProgrami\obj\Debug\012-KayitProgrami.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\012-KayitProgrami\012-KayitProgrami\obj\Debug\012-KayitProgrami.exe
+c:\users\emre\documents\visual studio 2017\Projects\012-KayitProgrami\012-KayitProgrami\obj\Debug\012-KayitProgrami.pdb

@@ -1,0 +1,10 @@
+c:\users\emre\documents\visual studio 2017\Projects\017-BilgiYarismasi\017-BilgiYarismasi\bin\Debug\017-BilgiYarismasi.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\017-BilgiYarismasi\017-BilgiYarismasi\bin\Debug\017-BilgiYarismasi.exe
+c:\users\emre\documents\visual studio 2017\Projects\017-BilgiYarismasi\017-BilgiYarismasi\bin\Debug\017-BilgiYarismasi.pdb
+c:\users\emre\documents\visual studio 2017\Projects\017-BilgiYarismasi\017-BilgiYarismasi\obj\Debug\017-BilgiYarismasi.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\017-BilgiYarismasi\017-BilgiYarismasi\obj\Debug\_017_BilgiYarismasi.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\017-BilgiYarismasi\017-BilgiYarismasi\obj\Debug\_017_BilgiYarismasi.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\017-BilgiYarismasi\017-BilgiYarismasi\obj\Debug\017-BilgiYarismasi.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\017-BilgiYarismasi\017-BilgiYarismasi\obj\Debug\017-BilgiYarismasi.exe
+c:\users\emre\documents\visual studio 2017\Projects\017-BilgiYarismasi\017-BilgiYarismasi\obj\Debug\017-BilgiYarismasi.pdb
+c:\users\emre\documents\visual studio 2017\Projects\017-BilgiYarismasi\017-BilgiYarismasi\obj\Debug\_017_BilgiYarismasi.Form2.resources

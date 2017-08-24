@@ -1,0 +1,9 @@
+c:\users\emre\documents\visual studio 2017\Projects\018-Algoritma_01\018-Algoritma_01\bin\Debug\018-Algoritma_01.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\018-Algoritma_01\018-Algoritma_01\bin\Debug\018-Algoritma_01.exe
+c:\users\emre\documents\visual studio 2017\Projects\018-Algoritma_01\018-Algoritma_01\bin\Debug\018-Algoritma_01.pdb
+c:\users\emre\documents\visual studio 2017\Projects\018-Algoritma_01\018-Algoritma_01\obj\Debug\018-Algoritma_01.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\018-Algoritma_01\018-Algoritma_01\obj\Debug\_018_Algoritma_01.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\018-Algoritma_01\018-Algoritma_01\obj\Debug\_018_Algoritma_01.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\018-Algoritma_01\018-Algoritma_01\obj\Debug\018-Algoritma_01.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\018-Algoritma_01\018-Algoritma_01\obj\Debug\018-Algoritma_01.exe
+c:\users\emre\documents\visual studio 2017\Projects\018-Algoritma_01\018-Algoritma_01\obj\Debug\018-Algoritma_01.pdb

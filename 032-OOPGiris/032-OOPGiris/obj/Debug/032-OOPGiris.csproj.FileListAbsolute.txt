@@ -1,0 +1,10 @@
+c:\users\emre\documents\visual studio 2017\Projects\032-OOPGiris\032-OOPGiris\bin\Debug\032-OOPGiris.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\032-OOPGiris\032-OOPGiris\bin\Debug\032-OOPGiris.exe
+c:\users\emre\documents\visual studio 2017\Projects\032-OOPGiris\032-OOPGiris\bin\Debug\032-OOPGiris.pdb
+c:\users\emre\documents\visual studio 2017\Projects\032-OOPGiris\032-OOPGiris\obj\Debug\032-OOPGiris.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\032-OOPGiris\032-OOPGiris\obj\Debug\_032_OOPGiris.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\032-OOPGiris\032-OOPGiris\obj\Debug\_032_OOPGiris.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\032-OOPGiris\032-OOPGiris\obj\Debug\032-OOPGiris.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\032-OOPGiris\032-OOPGiris\obj\Debug\032-OOPGiris.exe
+c:\users\emre\documents\visual studio 2017\Projects\032-OOPGiris\032-OOPGiris\obj\Debug\032-OOPGiris.pdb
+c:\users\emre\documents\visual studio 2017\Projects\032-OOPGiris\032-OOPGiris\obj\Debug\_032_OOPGiris.Form2.resources

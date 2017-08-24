@@ -1,0 +1,14 @@
+c:\users\emre\documents\visual studio 2017\Projects\040-MuzikCalar\040-MuzikCalar\bin\Debug\040-MuzikCalar.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\040-MuzikCalar\040-MuzikCalar\bin\Debug\040-MuzikCalar.exe
+c:\users\emre\documents\visual studio 2017\Projects\040-MuzikCalar\040-MuzikCalar\bin\Debug\040-MuzikCalar.pdb
+c:\users\emre\documents\visual studio 2017\Projects\040-MuzikCalar\040-MuzikCalar\bin\Debug\Interop.WMPLib.dll
+c:\users\emre\documents\visual studio 2017\Projects\040-MuzikCalar\040-MuzikCalar\bin\Debug\AxInterop.WMPLib.dll
+c:\users\emre\documents\visual studio 2017\Projects\040-MuzikCalar\040-MuzikCalar\obj\Debug\040-MuzikCalar.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\040-MuzikCalar\040-MuzikCalar\obj\Debug\Interop.WMPLib.dll
+c:\users\emre\documents\visual studio 2017\Projects\040-MuzikCalar\040-MuzikCalar\obj\Debug\AxInterop.WMPLib.dll
+c:\users\emre\documents\visual studio 2017\Projects\040-MuzikCalar\040-MuzikCalar\obj\Debug\040-MuzikCalar.csproj.ResolveComReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\040-MuzikCalar\040-MuzikCalar\obj\Debug\_040_MuzikCalar.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\040-MuzikCalar\040-MuzikCalar\obj\Debug\_040_MuzikCalar.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\040-MuzikCalar\040-MuzikCalar\obj\Debug\040-MuzikCalar.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\040-MuzikCalar\040-MuzikCalar\obj\Debug\040-MuzikCalar.exe
+c:\users\emre\documents\visual studio 2017\Projects\040-MuzikCalar\040-MuzikCalar\obj\Debug\040-MuzikCalar.pdb

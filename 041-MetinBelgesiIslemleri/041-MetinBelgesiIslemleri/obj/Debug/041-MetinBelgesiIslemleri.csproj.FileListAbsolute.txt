@@ -1,0 +1,9 @@
+c:\users\emre\documents\visual studio 2017\Projects\041-MetinBelgesiIslemleri\041-MetinBelgesiIslemleri\bin\Debug\041-MetinBelgesiIslemleri.exe.config
+c:\users\emre\documents\visual studio 2017\Projects\041-MetinBelgesiIslemleri\041-MetinBelgesiIslemleri\bin\Debug\041-MetinBelgesiIslemleri.exe
+c:\users\emre\documents\visual studio 2017\Projects\041-MetinBelgesiIslemleri\041-MetinBelgesiIslemleri\bin\Debug\041-MetinBelgesiIslemleri.pdb
+c:\users\emre\documents\visual studio 2017\Projects\041-MetinBelgesiIslemleri\041-MetinBelgesiIslemleri\obj\Debug\041-MetinBelgesiIslemleri.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2017\Projects\041-MetinBelgesiIslemleri\041-MetinBelgesiIslemleri\obj\Debug\_041_MetinBelgesiIslemleri.Form1.resources
+c:\users\emre\documents\visual studio 2017\Projects\041-MetinBelgesiIslemleri\041-MetinBelgesiIslemleri\obj\Debug\_041_MetinBelgesiIslemleri.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2017\Projects\041-MetinBelgesiIslemleri\041-MetinBelgesiIslemleri\obj\Debug\041-MetinBelgesiIslemleri.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2017\Projects\041-MetinBelgesiIslemleri\041-MetinBelgesiIslemleri\obj\Debug\041-MetinBelgesiIslemleri.exe
+c:\users\emre\documents\visual studio 2017\Projects\041-MetinBelgesiIslemleri\041-MetinBelgesiIslemleri\obj\Debug\041-MetinBelgesiIslemleri.pdb
