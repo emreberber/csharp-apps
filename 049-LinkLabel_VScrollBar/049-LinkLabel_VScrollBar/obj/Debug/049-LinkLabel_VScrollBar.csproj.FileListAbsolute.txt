@@ -1,0 +1,10 @@
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\049-LinkLabel_VScrollBar\049-LinkLabel_VScrollBar\bin\Debug\049-LinkLabel_VScrollBar.exe.config
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\049-LinkLabel_VScrollBar\049-LinkLabel_VScrollBar\bin\Debug\049-LinkLabel_VScrollBar.exe
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\049-LinkLabel_VScrollBar\049-LinkLabel_VScrollBar\bin\Debug\049-LinkLabel_VScrollBar.pdb
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\049-LinkLabel_VScrollBar\049-LinkLabel_VScrollBar\obj\Debug\_049_LinkLabel_VScrollBar.Form1.resources
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\049-LinkLabel_VScrollBar\049-LinkLabel_VScrollBar\obj\Debug\_049_LinkLabel_VScrollBar.Properties.Resources.resources
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\049-LinkLabel_VScrollBar\049-LinkLabel_VScrollBar\obj\Debug\049-LinkLabel_VScrollBar.csproj.GenerateResource.Cache
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\049-LinkLabel_VScrollBar\049-LinkLabel_VScrollBar\obj\Debug\049-LinkLabel_VScrollBar.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\049-LinkLabel_VScrollBar\049-LinkLabel_VScrollBar\obj\Debug\049-LinkLabel_VScrollBar.exe
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\049-LinkLabel_VScrollBar\049-LinkLabel_VScrollBar\obj\Debug\049-LinkLabel_VScrollBar.pdb
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\049-LinkLabel_VScrollBar\049-LinkLabel_VScrollBar\obj\Debug\049-LinkLabel_VScrollBar.csprojResolveAssemblyReference.cache

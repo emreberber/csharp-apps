@@ -1,0 +1,10 @@
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\047-CokBicimlilik\047-CokBicimlilik\bin\Debug\047-CokBicimlilik.exe.config
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\047-CokBicimlilik\047-CokBicimlilik\bin\Debug\047-CokBicimlilik.exe
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\047-CokBicimlilik\047-CokBicimlilik\bin\Debug\047-CokBicimlilik.pdb
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\047-CokBicimlilik\047-CokBicimlilik\obj\Debug\047-CokBicimlilik.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\047-CokBicimlilik\047-CokBicimlilik\obj\Debug\_047_CokBicimlilik.Form1.resources
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\047-CokBicimlilik\047-CokBicimlilik\obj\Debug\_047_CokBicimlilik.Properties.Resources.resources
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\047-CokBicimlilik\047-CokBicimlilik\obj\Debug\047-CokBicimlilik.csproj.GenerateResource.Cache
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\047-CokBicimlilik\047-CokBicimlilik\obj\Debug\047-CokBicimlilik.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\047-CokBicimlilik\047-CokBicimlilik\obj\Debug\047-CokBicimlilik.exe
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\047-CokBicimlilik\047-CokBicimlilik\obj\Debug\047-CokBicimlilik.pdb

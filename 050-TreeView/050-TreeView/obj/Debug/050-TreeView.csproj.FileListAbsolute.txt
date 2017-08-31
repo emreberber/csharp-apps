@@ -1,0 +1,9 @@
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\050-TreeView\050-TreeView\bin\Debug\050-TreeView.exe.config
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\050-TreeView\050-TreeView\bin\Debug\050-TreeView.exe
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\050-TreeView\050-TreeView\bin\Debug\050-TreeView.pdb
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\050-TreeView\050-TreeView\obj\Debug\_050_TreeView.Form1.resources
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\050-TreeView\050-TreeView\obj\Debug\_050_TreeView.Properties.Resources.resources
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\050-TreeView\050-TreeView\obj\Debug\050-TreeView.csproj.GenerateResource.Cache
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\050-TreeView\050-TreeView\obj\Debug\050-TreeView.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\050-TreeView\050-TreeView\obj\Debug\050-TreeView.exe
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\050-TreeView\050-TreeView\obj\Debug\050-TreeView.pdb

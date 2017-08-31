@@ -1,0 +1,10 @@
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\045-Kalıtım\045-Kalıtım\bin\Debug\045-Kalıtım.exe.config
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\045-Kalıtım\045-Kalıtım\bin\Debug\045-Kalıtım.exe
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\045-Kalıtım\045-Kalıtım\bin\Debug\045-Kalıtım.pdb
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\045-Kalıtım\045-Kalıtım\obj\Debug\045-Kalıtım.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\045-Kalıtım\045-Kalıtım\obj\Debug\_045_Kalıtım.Form1.resources
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\045-Kalıtım\045-Kalıtım\obj\Debug\_045_Kalıtım.Properties.Resources.resources
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\045-Kalıtım\045-Kalıtım\obj\Debug\045-Kalıtım.csproj.GenerateResource.Cache
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\045-Kalıtım\045-Kalıtım\obj\Debug\045-Kalıtım.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\045-Kalıtım\045-Kalıtım\obj\Debug\045-Kalıtım.exe
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\045-Kalıtım\045-Kalıtım\obj\Debug\045-Kalıtım.pdb

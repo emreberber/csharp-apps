@@ -1,0 +1,10 @@
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\042-DortIslem\042-DortIslem\bin\Debug\042-DortIslem.exe.config
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\042-DortIslem\042-DortIslem\bin\Debug\042-DortIslem.exe
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\042-DortIslem\042-DortIslem\bin\Debug\042-DortIslem.pdb
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\042-DortIslem\042-DortIslem\obj\Debug\042-DortIslem.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\042-DortIslem\042-DortIslem\obj\Debug\_042_DortIslem.Form1.resources
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\042-DortIslem\042-DortIslem\obj\Debug\_042_DortIslem.Properties.Resources.resources
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\042-DortIslem\042-DortIslem\obj\Debug\042-DortIslem.csproj.GenerateResource.Cache
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\042-DortIslem\042-DortIslem\obj\Debug\042-DortIslem.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\042-DortIslem\042-DortIslem\obj\Debug\042-DortIslem.exe
+C:\Users\Emre\Documents\Visual Studio 2017\Projects\Github\042-DortIslem\042-DortIslem\obj\Debug\042-DortIslem.pdb
